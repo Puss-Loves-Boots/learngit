@@ -8,3 +8,4 @@ Creating a new branch is quick and simple.
 add merge dev.
 
 add new in readme.txt for new branch
+add other branch.
